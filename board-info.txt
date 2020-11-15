@@ -1,0 +1,3 @@
+require version-baseband=4.3.c2-00029-SM6150_GEN_PACK-1.303544.1.313726.1
+require version-trustzone=TZ.XF.5.0.3-00138
+require version-vendor=1599665729
